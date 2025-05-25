@@ -102,3 +102,33 @@
     -fx-min-height: 0;
     -fx-background-color: transparent;
 }
+
+.table-view {
+    -fx-background-color: transparent;
+    -fx-control-inner-background: transparent;
+    -fx-table-cell-border-color: transparent;
+    -fx-padding: 0;
+}
+
+.table-row-cell {
+    -fx-background-color: transparent;
+}
+
+.table-cell {
+    -fx-background-color: transparent;
+    -fx-text-fill: #FFF;
+    -fx-font-family: Corbel;
+    -fx-font-size: 20px;
+}
+
+.enrollSelTab{
+	-fx-background-color: #a98539;
+	-fx-border-color: #a98539;
+	-fx-background-radius:  0px 30px 0px 30px;
+	-fx-border-radius: 0px 30px 0px 30px;
+}
+
+.enrollSelTab:hover{
+	-fx-background-color: #1b2e5c;
+	-fx-border-color: #1b2e5c;
+}
