@@ -40,7 +40,7 @@
             </Button>
             <ImageView fitHeight="107.0" fitWidth="419.0" layoutX="202.0" layoutY="113.0" pickOnBounds="true" preserveRatio="true" smooth="false">
                <image>
-                  <Image url="@../../../../XU_Logotype_Color.png" />
+                  <Image url="@../../resources/XU_Logotype_Color.png" />
                </image>
             </ImageView>
             <Label fx:id="loginLabel" layoutX="285.0" layoutY="368.0" text="Please enter credentials." textFill="#808080">
