@@ -95,10 +95,3 @@
 	-fx-border-width: 2px;
 	-fx-border-radius: 10px 10px 25px 25px;
 }
-
-.table-view .column-header-background {
-    -fx-max-height: 0;
-    -fx-pref-height: 0;
-    -fx-min-height: 0;
-    -fx-background-color: transparent;
-}
