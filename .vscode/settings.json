@@ -1,0 +1,27 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\NeilS\\VscodeJavaFx\\javafx-sdk-24.0.1\\lib\\javafx.base.jar",
+            "c:\\Users\\NeilS\\VscodeJavaFx\\javafx-sdk-24.0.1\\lib\\javafx.controls.jar",
+            "c:\\Users\\NeilS\\VscodeJavaFx\\javafx-sdk-24.0.1\\lib\\javafx.fxml.jar",
+            "c:\\Users\\NeilS\\VscodeJavaFx\\javafx-sdk-24.0.1\\lib\\javafx.graphics.jar",
+            "c:\\Users\\NeilS\\VscodeJavaFx\\javafx-sdk-24.0.1\\lib\\javafx.media.jar",
+            "c:\\Users\\NeilS\\VscodeJavaFx\\javafx-sdk-24.0.1\\lib\\javafx.swing.jar",
+            "c:\\Users\\NeilS\\VscodeJavaFx\\javafx-sdk-24.0.1\\lib\\javafx.web.jar",
+            "c:\\Users\\NeilS\\VscodeJavaFx\\javafx-sdk-24.0.1\\lib\\javafx-swt.jar",
+            "c:\\Users\\NeilS\\VscodeJavaFx\\javafx-sdk-24.0.1\\lib\\jdk.jsobject.jar",
+            "c:\\Users\\NeilS\\VscodeJavaFx\\javafx-sdk-24.0.1\\lib\\jfx.incubator.input.jar",
+            "c:\\Users\\NeilS\\VscodeJavaFx\\javafx-sdk-24.0.1\\lib\\jfx.incubator.richtext.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\NeilS\\EclipseJavaFx\\javafx-sdk-24.0.1\\lib\\javafx-swt.jar",
+            "c:\\Users\\NeilS\\EclipseJavaFx\\javafx-sdk-24.0.1\\lib\\javafx.controls.jar",
+            "c:\\Users\\NeilS\\EclipseJavaFx\\javafx-sdk-24.0.1\\lib\\javafx.fxml.jar",
+            "c:\\Users\\NeilS\\EclipseJavaFx\\javafx-sdk-24.0.1\\lib\\javafx.graphics.jar",
+            "c:\\Users\\NeilS\\EclipseJavaFx\\javafx-sdk-24.0.1\\lib\\javafx.web.jar"
+        ]
+    }
+}
