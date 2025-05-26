@@ -37,8 +37,7 @@
       <Separator layoutX="648.0" layoutY="69.0" opacity="0.43" orientation="VERTICAL" prefHeight="158.0" prefWidth="6.0" style="-fx-background-color: #3a53a4;" />
       <Pane layoutX="14.0" layoutY="269.0" prefHeight="38.0" prefWidth="772.0" style="-fx-background-color: #3a53a4;">
          <children>
-            <Button layoutX="695.0" layoutY="7.0" mnemonicParsing="false" text="Next" />
-            <Button layoutX="635.0" layoutY="7.0" mnemonicParsing="false" text="Cancel" />
+            <Button layoutX="717.0" layoutY="7.0" mnemonicParsing="false" onAction="#switchToFinance" text="Back" />
          </children>
       </Pane>
       <Separator layoutX="17.0" layoutY="134.0" prefHeight="3.0" prefWidth="766.0" style="-fx-background-color: #3a53a4;" />

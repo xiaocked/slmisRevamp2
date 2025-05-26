@@ -9,7 +9,7 @@ public class App extends Application {
     public void start(Stage primaryStage) {
         try {
             // If FXML is in the same folder/package
-            Parent root = FXMLLoader.load(getClass().getResource("Transaction.fxml"));
+            Parent root = FXMLLoader.load(getClass().getResource("Finance.fxml"));
 
             Scene scene = new Scene(root);
             primaryStage.setTitle("Transaction");
